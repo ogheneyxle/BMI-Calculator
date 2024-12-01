@@ -4,7 +4,7 @@
 The aim of this project was to demonstrate the functionality of python in executing mundane tasks such as mathematical calculations. With my knowledge of python and its many functions, statements, etc, I was able to code a 'basic' and functional and reactive BMI calculator. 
 
 ## Tools
-- Jupyter Notebooks
+- Jupyter Notebook
 
 ## Brief Walkthrough
 - The formula for BMI in this project is (weight (kg))/height * height(m)).
