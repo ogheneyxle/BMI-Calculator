@@ -16,7 +16,7 @@ weight = int(input("weight in kgs: "))
 ```
 height = float(input("height in metres: ")
 ```
-<small> Note: I genuinely feel like I am preaching to the choir here, I promise i do not intend to ramble, i just worry i do not know the etiquette here so i just explain even the tiniest steps.</small>
+Note: I genuinely feel like I am preaching to the choir here, I promise i do not intend to ramble, i just worry i do not know the etiquette here so i just explain even the tiniest steps.
 
 - After which I created if, elif and else statements that would run depending on the corresponding results of the BMI calculation. These statements of coruse are accompanied by prompt texts.
 ```
